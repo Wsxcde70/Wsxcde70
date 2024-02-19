@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wsxcde70
 - 👀 I’m interested in ... Machine Learning and AI, Cybersecurity.
 - 🌱 I’m currently learning ... Pytorch and Flask
-- 💞️ I’m looking to collaborate on ... Building LLM Services with other experienced Artificial Intelligence users. DM ME!
+- 💞️ I’m looking to collaborate on ... Building and Training Advanced A.I. SaaS Business Models with High ROI with other AI users. DM ME!
 - 📫 How to reach me ... DM ME!!!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
