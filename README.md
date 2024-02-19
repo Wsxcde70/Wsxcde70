@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... Pytorch and Flask
 - 💞️ I’m looking to collaborate on ... Building and Training Advanced A.I. SaaS Business Models with High ROI with other AI users. DM ME!
 - 📫 How to reach me ... DM ME!!!
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... Himothy.
+- ⚡ Fun fact: ... I like cheese
 
 <!---
 Wsxcde70/Wsxcde70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
